@@ -11,5 +11,6 @@
 围绕Yolov5相关所需具备的基础知识，帮助在实际生产过程中能够最大化的对其进行使用。
 
 * [Yolov5在Ubuntu环境搭建](/yolo/install.md)
-* [Yolov5深度剖析知识](/yolo/yolov5_depth.md)  
+* [输入图像尺寸对训练的影响](/yolo/input_size.md)
+* [Yolov5深度剖析知识](/yolo/yolov5_depth.md)
 
