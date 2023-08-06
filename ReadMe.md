@@ -14,3 +14,6 @@
 * [输入图像尺寸对训练的影响](/yolo/input_size.md)
 * [Yolov5深度剖析知识](/yolo/yolov5_depth.md)
 
+### 3. Llama-2学习
+
+* [Llama-2安装运行](/llama/install.md)
