@@ -8,6 +8,8 @@
 围绕目标检测相关基础的术语、卷积模型以及较通用的技术。  
 
 * [通用术语解释说明1](/detection/Basic.md)  
+* [IOU损失函数教程](/detection/IOU.md)
+* [NMS非极大值抑制](/detection/NMS.md)
 
 ### 2. Yolov5学习
 围绕Yolov5相关所需具备的基础知识，帮助在实际生产过程中能够最大化的对其进行使用。
